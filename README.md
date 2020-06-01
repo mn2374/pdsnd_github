@@ -14,6 +14,7 @@ Intro to Python project doing an analysis of bikeshare data from multiple cities
 chicago.csv
 new_york_city.csv
 washington.csv
+bikeshare_2.py
 
 ### Credits
 Relied on Udacity Intro to Python modules.
