@@ -17,4 +17,4 @@ washington.csv
 
 ### Credits
 Relied on Udacity Intro to Python modules.
-
+Feedback from Udacity mentors and project graders.
