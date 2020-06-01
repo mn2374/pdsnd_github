@@ -6,11 +6,11 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
 
-CITIES = ["chicago", "new york city", "washington"]
-MONTHS = ["all", "january", "febuary", "march", "april", "may", "june",
-          "july", "august", "september", "october", "november", "december"]
-DAYS = ["all", "monday", "tuesday", "wednesday",
-        "thursday", "friday", "saturday", "sunday"]
+CITIES = ["Chicago", "New York City", "Washington"]
+MONTHS = ["all", "January", "Febuary", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December"]
+DAYS = ["all", "Monday", "Tuesday", "Wednesday",
+        "Thursday", "Friday", "Saturday", "Sunday"]
 
 
 def get_input(prompt, corpus):
